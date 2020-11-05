@@ -38,3 +38,7 @@
 .navbar-dark{
   background-color: #512DA8;
 }
+.navbar-nav > li{
+  padding-left:30px;
+  padding-right:30px;
+}
