@@ -42,3 +42,16 @@
   padding-left:30px;
   padding-right:30px;
 }
+.form-check-label{
+  padding-left: 10px;
+  padding-top: 20px;
+}
+.col-form-label{
+  padding-left: 20px;
+}
+.tab-content{
+  border-left: 1px solid #ddd;
+  border-right: 1px solid #ddd;
+  border-bottom:  1px solid #ddd;
+  padding: 10px 10px 10px 10px;
+}
